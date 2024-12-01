@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/DeepSikdar07/DeepSikdar07/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner-min.png)
+![logo](https://github.com/DeepSikdar07/DeepSikdar07/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Deep Sikdar</h1>
 <h3 align="center">A passionate developer and AI & Machine Learning Enthusiast from India</h3>
 
